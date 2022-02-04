@@ -40,7 +40,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Ugboaja-Uchechi/tdd/issues).
 
 ## Show your support
 
