@@ -30,6 +30,8 @@
 
 ### Author 2
 
+👤 **Yaseer Okino**
+
 - GitHub: [@yaseerokino](https://github.com/yaseerokino)
 
 - LinkedIn: [Yaseer Okino](https://linkedin.com/in/yaseerokino)
@@ -46,4 +48,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md) licensed.
