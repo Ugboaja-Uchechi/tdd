@@ -30,4 +30,7 @@ describe 'Solver' do
   it 'takes a number and checks if it is divisible by 3 and 5' do
     expect(@solver.fizzbuzz(15)).to eq 'fizzbuzz'
   end
+  it 'returns N when it does not have a remainder of 0' do
+    expect(@solver.fizzbuzz(7)).to eql('7')
+  end
 end
